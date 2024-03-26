@@ -1,16 +1,17 @@
 ### :octocat: Hi, I'm Jhon Cerón
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=LinkedIn&link=www.linkedin.com%2Fin%2Fjhon-mario-cer%C3%B3n-a52323184)](www.linkedin.com/in/jhon-mario-cerón-a52323184)
-<!--
-**JMariusCM/JMariusCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=LinkedIn)](www.linkedin.com/in/jhon-mario-cerón-a52323184)
 
-Here are some ideas to get you started:
+### Physicist
+I'm a physicist from Universidad de los Andes.
+I'm currently studying a master's degree in astrophysics at Universidad de Valparaíso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coding
+
+[![Python](https://img.shields.io/badge/Python-white?logo=Python)]()
+
+## Software
+[![IRAF](https://img.shields.io/badge/IRAF-white?logo=IRAF)]()
+
+
+![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMariusCM&show_icons=true&theme=radical)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=JMariusCM&label=VISITORS&labelColor=%23697689&countColor=%23ba68c8&style=flat-square)

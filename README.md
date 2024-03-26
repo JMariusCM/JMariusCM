@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### :octocat: Hi, I'm Jhon Cerón
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=LinkedIn&link=www.linkedin.com%2Fin%2Fjhon-mario-cer%C3%B3n-a52323184)](www.linkedin.com/in/jhon-mario-cerón-a52323184)
 <!--
 **JMariusCM/JMariusCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
